@@ -1,0 +1,10 @@
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+plotly>=5.17.0
+sqlalchemy>=2.0.0
+openpyxl>=3.1.2
+langchain>=0.0.300
+langchain_openai
+langchain_community
